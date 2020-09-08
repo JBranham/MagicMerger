@@ -98,6 +98,18 @@ rxversion="8.3">
 				id="b61142aa-7664-492d-a08b-f6f033e66b7f"
 				name="MyWebVIPTest">
 					<testcase
+					id="ab2659f0-8a20-4896-b5f2-4c984820a634"
+					name="TestCase">
+						<testmodule
+						id="d440e402-15ff-4bac-9bb4-414ef6d42f0e"
+						name="AddVIPs">
+						</testmodule>
+						<testmodule
+						id="f7afdaa3-3841-433a-8683-8e9521bdec14"
+						name="AddVIPs">
+						</testmodule>
+					</testcase>
+					<testcase
 					id="d7c0f3c4-6d1a-4721-8f58-9b2992aedfaa"
 					name="WEB_VIPs_Add_TestCase">
 						<testmodule
@@ -123,18 +135,6 @@ rxversion="8.3">
 						<testmodule
 						id="1ecd4d8a-77d9-4e20-a7de-61c987fed32a"
 						name="CloseApp">
-						</testmodule>
-					</testcase>
-					<testcase
-					id="ab2659f0-8a20-4896-b5f2-4c984820a634"
-					name="TestCase">
-						<testmodule
-						id="d440e402-15ff-4bac-9bb4-414ef6d42f0e"
-						name="AddVIPs">
-						</testmodule>
-						<testmodule
-						id="f7afdaa3-3841-433a-8683-8e9521bdec14"
-						name="AddVIPs">
 						</testmodule>
 					</testcase>
 				</testcase>
