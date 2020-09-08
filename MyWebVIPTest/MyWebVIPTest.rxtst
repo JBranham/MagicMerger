@@ -60,7 +60,7 @@ rxversion="8.3">
 			</testmodule>
 			<testcase
 			id="ab2659f0-8a20-4896-b5f2-4c984820a634"
-			name="TestCase">
+			name="TestCase1234">
 			</testcase>
 			<testcase
 			id="b61142aa-7664-492d-a08b-f6f033e66b7f"
@@ -99,7 +99,7 @@ rxversion="8.3">
 				name="MyWebVIPTest">
 					<testcase
 					id="ab2659f0-8a20-4896-b5f2-4c984820a634"
-					name="TestCase">
+					name="TestCase1234">
 						<testmodule
 						id="d440e402-15ff-4bac-9bb4-414ef6d42f0e"
 						name="AddVIPs">
